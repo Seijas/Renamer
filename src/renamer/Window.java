@@ -1,4 +1,4 @@
-package renombrator;
+package renamer;
 
 import java.io.File;
 

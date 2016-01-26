@@ -1,10 +1,10 @@
-package renombrator;
+package renamer;
 
 /**
  * @version 1.0
  * @author Seijas
  */
-public class Renombrator {
+public class Renamer {
 
     public static void main(String[] args) {
         
